@@ -42,7 +42,7 @@ a {
 .navigation{
   display: flex;
   justify-content: space-between;
-  position: sticky;
+  /* position: sticky; */
 top:0;
 padding-top: 2rem;
  z-index: 999;
