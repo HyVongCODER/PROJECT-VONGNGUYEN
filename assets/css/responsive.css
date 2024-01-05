@@ -449,5 +449,14 @@
         letter-spacing: -0.32rem;
         width: 32rem;
     }
+    .footer__cta{
+        transform: translateX(-5%);
+    }
+    .footer__copyright-left{
+        transform: translateY(120%);
+    }
+    .open-close-left{
+        padding-left:1rem;
+    }
   
 }
