@@ -458,5 +458,7 @@
     .open-close-left{
         padding-left:1rem;
     }
-  
+  .c-r-3 > div {
+    margin: 1rem 0;
+  }
 }
