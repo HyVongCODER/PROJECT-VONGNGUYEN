@@ -461,4 +461,10 @@
   .c-r-3 > div {
     margin: 1rem 0;
   }
+  .hero .row div:last-child{
+    margin:0;
+  }
+  .project__title{
+    min-width: 370px;
+  }
 }
