@@ -3,6 +3,9 @@
     .show-on-mobile {
         display: none;
     }
+    .rate .container div:nth-child(5){
+        margin-top: 10rem;
+      }
     
     
     
@@ -39,6 +42,9 @@
         .hide-on-tm{
             display: none;
         }
+        .rate .container div:nth-child(5){
+            margin-top: 5rem;
+          }
 /* .navigation{
     height:auto;
     padding-top:1rem;
